@@ -10,4 +10,4 @@ setup(
   download_url= 'https://github.com/wuyuehao/ghost/tarball/0.15',
   keywords = ['AI', 'ML'],
   classifiers = [],
-)      zip_safe=False)
+) 
