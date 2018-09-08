@@ -1,7 +1,7 @@
 from distutils.core import setup
 setup(
-  name='ghost',
-  packages=['ghost'],
+  name='automlib',
+  packages=['automlib'],
   version='0.16',
   description='Configurable Machine Learning Library',
   author='Tony Wu',
