@@ -20,7 +20,7 @@ import mlflow
 import mlflow.keras
 import mlflow.sklearn
 
-image_path ='/Users/tonywu/workspaces/react/ai-platform/flaskr/planes/planesnet'
+image_path = os.environ['AUTOMLIB_DATA_PATH']
 
 def setImagePath(path):
     print("setting path :" + path)
